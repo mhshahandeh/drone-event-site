@@ -1,6 +1,6 @@
 # drone-event-site
 ## Overview
-`Drone Event` website was built in order to learn the basics of HTML, CSS. And a little bit of JavaScript was used for animation and hamburger menu.
+`Drone Event` website was built for understanding basics of HTML, CSS and JavaScript.
 
 ## Screenshot:
 <img style="border-radius: 10px; margin-top: 10px;" src="assets/drone-event-site.png">
